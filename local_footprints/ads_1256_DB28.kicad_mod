@@ -1,4 +1,4 @@
-(footprint "DB28"
+(footprint "ads_1256_DB28"
 	(version 20240706)
 	(generator "pcbnew")
 	(generator_version "8.99")
@@ -802,7 +802,7 @@
 	)
 	(fp_line
 		(start 2.794 -4.034499)
-		(end 4.1021 -4.034499)
+		(end 4.294 -4.034499)
 		(stroke
 			(width 0.0254)
 			(type solid)
@@ -1598,7 +1598,7 @@
 		(uuid "2908640e-1463-4930-9b5f-06139ed1a12f")
 	)
 	(embedded_fonts no)
-	(model "${LOCAL_3D}/DB0028A.stp"
+	(model "${KIPRJMOD}/electronic-components/step_files/ads1256.stp"
 		(offset
 			(xyz 0 0 0)
 		)

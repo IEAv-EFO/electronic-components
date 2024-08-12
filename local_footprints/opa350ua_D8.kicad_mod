@@ -1,4 +1,4 @@
-(footprint "D8"
+(footprint "opa350ua_D8"
 	(version 20240706)
 	(generator "pcbnew")
 	(generator_version "8.99")
@@ -614,7 +614,7 @@
 		(uuid "2201fca3-f6e2-4898-80cc-70b64670d0cb")
 	)
 	(embedded_fonts no)
-	(model "${LOCAL_3D}/D0008A.stp"
+	(model "${KIPRJMOD}/electronic-components/step_files/opa2727.stp"
 		(offset
 			(xyz 0 0 0)
 		)
