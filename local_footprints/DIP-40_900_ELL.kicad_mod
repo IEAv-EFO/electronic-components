@@ -506,7 +506,7 @@
 		(uuid "af9387ed-bdc6-4695-ba4b-466cadedd7c9")
 	)
 	(embedded_fonts no)
-	(model "${LOCAL_3D}/Wemos Lolin D32.stp"
+	(model "${KIPRJMOD}/electronic-components/step_files/Wemos Lolin D32.stp"
 		(offset
 			(xyz 23 0 6.5)
 		)

@@ -604,7 +604,7 @@
 		(uuid "e91bc25e-71ee-42e5-925a-f420d31aae02")
 	)
 	(embedded_fonts no)
-	(model "${LOCAL_3D}/ESP32-S3-DEVKITC-1-N8R2.step"
+	(model "${KIPRJMOD}/electronic-components/step_files/ESP32-S3-DEVKITC-1-N8R2.step"
 		(offset
 			(xyz 0 0 0)
 		)
